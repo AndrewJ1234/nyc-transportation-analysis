@@ -1,5 +1,11 @@
 # Analysis of NYC Transportation Data
 
+## About This Project
+https://medium.com/p/356351db85ae
+
+## Data Analytics Graphic
+https://idyllic-figolla-fc96cf.netlify.app/
+
 ## Input data: 
 
 https://data.cityofnewyork.us/dataset/Citi-Bike-System-Data/vsnr-94wk/about_data
